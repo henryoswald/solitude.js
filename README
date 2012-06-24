@@ -1,0 +1,1 @@
+This allows for easy testing of node modules by passing in a new set of dependencies which will be required in. Vojta Jina wrote this but I ended up using it in a  few project so just wanted to require it in my tests easily. See his blog post for more http://howtonode.org/testing-private-state-and-mocking-deps
